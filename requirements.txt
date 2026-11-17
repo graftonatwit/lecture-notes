@@ -1,0 +1,6 @@
+faster-whisper>=1.2,<2
+sounddevice>=0.5,<1
+numpy
+# Optional, NVIDIA GPU only (much faster transcription):
+# nvidia-cublas-cu12
+# nvidia-cudnn-cu12==9.*
